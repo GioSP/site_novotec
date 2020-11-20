@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(231, 97, 97, 0.726);
+}
+
+h1{
+    color: purple;
+}
+
+img{
+    height: 300px;
+    width: 400px;
+}
+
+.input{
+    border-radius: 7px;
+    border: none;
+    outline: none;
+}
+
+.botao{
+    background-color: purple;
+    border: none;
+    border-radius: 7px;
+    
+}
